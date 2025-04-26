@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Nav from '../components/nav'
+import Nav from '../components/Nav'
 import Services from '../components/Services'
 import Abouts from '../components/Abouts'
 import client from '../Images/client-1.png'
